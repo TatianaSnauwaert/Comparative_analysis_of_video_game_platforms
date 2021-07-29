@@ -2,7 +2,7 @@
 ## Integrated project after the 1st module from Practicum by Yandex
 
 ### Goal
-Prepare a report for the online store Ice to identify patterns that determine whether a game succeeds or not. This will allow us to spot potential big winners and plan advertising campaigns.
+Prepare a report for the online store Ice to identify patterns that determine whether a game will succeed or not. This will allow us to spot potential big winners and plan advertising campaigns.
 
 ### This project's repo includes the following files:
 
